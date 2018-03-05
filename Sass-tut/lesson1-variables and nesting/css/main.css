@@ -1,0 +1,16 @@
+nav ul {
+  background: #2c3e50;
+  margin: 0;
+  padding: 0; }
+
+nav li {
+  display: inline-block; }
+
+nav a {
+  color: white;
+  padding: 10px;
+  display: inline-block;
+  text-decoration: none; }
+
+nav a:hover {
+  background-color: #16a085; }

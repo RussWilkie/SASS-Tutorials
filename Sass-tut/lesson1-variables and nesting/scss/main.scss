@@ -1,0 +1,25 @@
+$bg-color: #2c3e50;
+$hover-color: #16a085;
+$text-color: white;
+
+nav{
+    ul{
+        background: $bg-color;
+        margin: 0;
+        padding: 0;
+    }
+    li{
+        display: inline-block;
+    }
+
+    a{
+        color: $text-color;
+        padding: 10px;
+        display: inline-block;
+        text-decoration: none;
+    }
+    
+    a:hover{
+        background-color: $hover-color;
+    }
+}
